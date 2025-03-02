@@ -9,11 +9,11 @@ export const metadata: Metadata = {
     default: "Matthew Montero",
     template: "%s | matd.vercel.app",
   },
-  description: "A Software Engineer driven by results and in hot pursuit of excellence.",
+  description: "A Software Engineer fueled by curiousity, driven by innovation",
   openGraph: {
     title: "Matthew Montero",
     description:
-      "A Software Engineer driven by results and in hot pursuit of excellence.",
+      "A Software Engineer fueled by curiousity, driven by innovation",
     url: "https://matd.vercel.app",
     siteName: "Matthew Montero | Software Engineer",
     images: [

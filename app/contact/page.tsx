@@ -9,18 +9,18 @@ const socials = [
 		icon: <Linkedin size={20} />,
 		href: "https://www.linkedin.com/in/montero-md/",
 		label: "LinkedIn",
-		handle: "Matthew David Montero",
+		handle: "Let's Connect",
 	},
 	{
 		icon: <Mail size={20} />,
 		href: "mailto:montero.matthewdavid@gmail.com",
 		label: "Email",
-		handle: "montero.matthewdavid@gmail.com",
+		handle: "Contact Me",
 	},
 	{
 		icon: <Github size={20} />,
 		href: "https://github.com/Montero-MD",
-		label: "Github",
+		label: "GitHub",
 		handle: "Montero-MD",
 	},
 ];

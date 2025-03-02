@@ -42,7 +42,7 @@ export default function Home() {
             className="underline duration-500 hover:text-zinc-300"
           >
             Software Engineer
-          </Link> driven by results, in hot pursuit of excellence.
+          </Link> fueled by curiousity, driven by innovation
         </h2>
       </div>
     </div>
