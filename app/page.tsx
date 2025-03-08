@@ -3,6 +3,7 @@ import Link from "next/link";
 import React from "react";
 import Particles from "./components/particles";
 import FloatingIcons from "./components/floatingIcons"; // Import the extracted component
+import { Metadata } from "next";
 
 const navigation = [
   { name: "Projects", href: "/projects" },
