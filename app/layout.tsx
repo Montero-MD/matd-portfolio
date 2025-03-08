@@ -7,7 +7,7 @@ import { Analytics } from "./components/analytics";
 export const metadata: Metadata = {
   title: {
     default: "Home | Matthew Montero",
-    template: "%s | matd.vercel.app",
+    template: "%s | Matthew Montero",
   },
   description: "A Software Engineer fueled by curiousity, driven by innovation",
   openGraph: {
